@@ -39,9 +39,14 @@
 ### https://drive.google.com/drive/folders/1RC7hOFGamJCmUrP8E_xzzIxKf5ibeON9
 ### https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/
 ### https://blog.logrocket.com/using-localstorage-react-hooks/
-###
-###
-###
+### https://nodesource.com/blog/the-basics-of-package-json
+### react class component get html ref
+### https://stackoverflow.com/questions/38093760/how-to-access-a-dom-element-in-react-what-is-the-equilvalent-of-document-getele
+### https://stackoverflow.com/questions/42666140/reactjs-find-elements-by-classname-in-a-react-component
+### https://viblo.asia/p/refs-in-react-tat-ca-nhung-gi-ban-can-biet-V3m5WOgQ5O7
+### https://blog.logrocket.com/complete-guide-react-refs/
+### https://stackoverflow.com/questions/22343224/whats-the-difference-between-tilde-and-caret-in-package-json
+### https://stackoverflow.com/questions/53146575/storing-non-state-variables-in-functional-components
 
 
 
