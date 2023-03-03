@@ -8,4 +8,10 @@
 ### nextjs todo: https://github.com/upstash/redis-examples/tree/master/nextjs-todo
 ### nextjs tutorialpoint: https://www.tutorialspoint.com/nextjs/nextjs_routing.htm
 ### react pass function to prop: https://timmousk.com/blog/react-pass-function-as-prop/
-### 
+### https://timmousk.com/blog/react-pass-function-as-prop/
+### pass function handle callback to prop react
+### https://stackoverflow.com/questions/73264302/best-practice-to-handle-react-callbacks-when-passing-to-as-prop-to-component
+### react call function from another component : https://www.pluralsight.com/guides/how-to-reference-a-function-in-another-component
+### https://timmousk.com/blog/react-call-function-in-child-component/
+### react call function from parent component 
+### https://www.learnbestcoding.com/post/72/call-parent-function-from-child-component-react
