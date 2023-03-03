@@ -6,3 +6,6 @@
 ### redis ex: https://github.com/upstash/redis-examples
 ### kafka ex: https://github.com/upstash/kafka-examples
 ### nextjs todo: https://github.com/upstash/redis-examples/tree/master/nextjs-todo
+### nextjs tutorialpoint: https://www.tutorialspoint.com/nextjs/nextjs_routing.htm
+### react pass function to prop: https://timmousk.com/blog/react-pass-function-as-prop/
+### 
