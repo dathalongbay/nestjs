@@ -1,4 +1,5 @@
 # nestjs
+https://drive.google.com/drive/folders/1KOM3ZyYh5lCyIilyLeAxFRQwLUwuIyJL?usp=sharing
 ### redis search: https://nimblehq.co/blog/getting-started-with-redisearch
 ### tham khảo wiki: https://www.rung.vn/dict/vn_vn/D%C5%A9ng_c%E1%BA%A3m
 ### nextjs todo: https://codesandbox.io/s/fquu1?file=/src/components/TodoList.js
